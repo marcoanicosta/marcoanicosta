@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcoanicosta
-- 👀 I’m interested in Java, Ruby,Frontend w/ .js frameworks, MERN🔗 + Kubernetes
+- 👀 I’m interested in Java, Ruby, Frontend w/ .js frameworks, MERN🔗 + Kubernetes
 - 🌳 I’m currently learning Node.js + React.js
 - 📫 How to reach me ... https://the-dots.com/users/marcolino-nafafe-811511
 
